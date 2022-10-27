@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.section {
+  padding: 3rem 0 9.6rem 2.4rem;
+  width: 100%;
+  background-color: rgb(27, 26, 26);
+}
+.section-add {
+  padding-right: 2.4rem;
+}

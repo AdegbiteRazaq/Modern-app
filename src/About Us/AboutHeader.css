@@ -1,0 +1,22 @@
+/* .about-flex {
+  gap: 4rem;
+} */
+.quote-block {
+  height: 1rem;
+  width: 3rem;
+}
+.testifiers {
+  width: 2.5rem;
+  height: 2.5rem;
+}
+.post {
+  font-size: 0.8rem;
+  color: gray;
+}
+.testifier-flex {
+  gap: 1rem;
+}
+.ind-testifier:hover {
+  background-color: rgb(196, 194, 194);
+  border-radius: 12px;
+}

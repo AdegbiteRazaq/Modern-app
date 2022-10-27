@@ -1,0 +1,28 @@
+p {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.header__container {
+  margin-bottom: 6rem;
+}
+.percent {
+  background: linear-gradient(125.17deg, #272727 0%, #11101d 100%);
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 0.8rem;
+  border-radius: 6px;
+  font-weight: 600;
+}
+.gen-h1 {
+  font-weight: bold !important;
+}
+.robot {
+  width: 85%;
+  height: 32rem;
+}
+
+.header-bottom {
+  margin-right: 9rem;
+}
+.img-div {
+  width: 100%;
+}

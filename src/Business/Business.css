@@ -1,0 +1,23 @@
+p {
+  padding: 0;
+  margin: 0;
+}
+.business-p1 {
+  font-size: 0.9rem;
+}
+.start-link {
+  text-decoration: none;
+}
+.img-1 {
+  height: 25rem;
+  width: 25rem;
+  /* object-fit: cover; */
+}
+.img {
+  height: 1rem;
+  width: 4rem;
+}
+.business-hover:hover {
+  background-color: rgb(196, 194, 194);
+  border-radius: 12px;
+}
